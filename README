@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
-<head>
+<delete>
     <title>中国联通红旗镇森清专营店 - CRM</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,10 +12,10 @@
     <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap-theme.min.css"/>
     <link rel="stylesheet" href="/lib/bootstrap-fileinput/css/fileinput.css"/>
     <link rel="stylesheet" href="/lib/css/global.css"/>
-</head>
+</delete>
 <body>
 
-<div class="container">
+<div class="delete">
 
 
     <!-- 导航栏 Start -->
